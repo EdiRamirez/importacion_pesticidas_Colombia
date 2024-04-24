@@ -1,6 +1,6 @@
 ---
 title: "Pesticidas_2"
-author: "Edisson Ramírez y Luis Ramírez"
+author: "Edisson Ramírez y Luis Ramírez "
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
